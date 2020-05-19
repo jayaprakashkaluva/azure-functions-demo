@@ -5,5 +5,6 @@ Following are the steps to add and deploy new function
 
 #Add a new function 
 mavn azure-functions:add
+
 #To deploy the functions to function app
 mvn azure-functions:deploy
