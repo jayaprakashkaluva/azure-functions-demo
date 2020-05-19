@@ -1,9 +1,9 @@
 # azure-functions-demo
-this repository contains the code for various azure function triggers
+This repository contains the code for various azure function triggers, this repo just contains configurations for various triggers , business logic to handle the input is not written  
 
 Following are the steps to add and deploy new function 
 
-Add a new function 
+#Add a new function 
 mavn azure-functions:add
-to deploy the functions to function app
+#To deploy the functions to function app
 mvn azure-functions:deploy
